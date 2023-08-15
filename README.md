@@ -12,6 +12,8 @@ I’m sure that this background also offers multiple opportunities to learn and 
 
 How exciting! 🔥 Let's continue the journey! 🚀
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeresoft/)
+![Twitter Follow](https://img.shields.io/twitter/follow/jeresoft)
 
 <!---
 jeresoftx/jeresoftx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
