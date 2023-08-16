@@ -17,8 +17,8 @@ How exciting! 🔥 Let's continue the journey! 🚀
 
 ## Github Overview
 
-<img align="left" alt="Joel Alvarez Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeresoftx&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeresoftx)](https://github.com/jeresoftx/github-readme-stats) 
+<img align="left" alt="Joel Alvarez Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeresoftx&show_icons=true&theme=dark" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeresoftx&theme=dark)](https://github.com/jeresoftx/github-readme-stats) 
 
 <!---
 jeresoftx/jeresoftx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
