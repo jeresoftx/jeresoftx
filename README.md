@@ -15,6 +15,11 @@ How exciting! 🔥 Let's continue the journey! 🚀
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeresoft/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jeresoft)
 
+## Github Overview
+
+<img align="left" alt="Joel Alvarez Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeresoftx&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeresoftx)](https://github.com/jeresoftx/github-readme-stats) 
+
 <!---
 jeresoftx/jeresoftx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
