@@ -13,7 +13,7 @@ I’m sure that this background also offers multiple opportunities to learn and 
 How exciting! 🔥 Let's continue the journey! 🚀
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeresoft/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jeresoft)(https://twitter.com/jeresoft)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/jeresoft)](https://twitter.com/jeresoft)
 
 ## Github Overview
 
