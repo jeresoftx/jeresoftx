@@ -14,7 +14,7 @@ How exciting! 🔥 Let's continue the journey! 🚀
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeresoft/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeresoft)](https://twitter.com/jeresoft)
-[![Static Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/jeresoft/)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?flat&logo=instagram&logoColor=white)](https://www.instagram.com/jeresoft/)
 
 
 ## Github Overview
