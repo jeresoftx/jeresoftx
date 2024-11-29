@@ -12,7 +12,8 @@ I’m sure that this background also offers multiple opportunities to learn and 
 
 How exciting! 🔥 Let's continue the journey! 🚀
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeresoft/)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jeresoft)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeresoft)](https://twitter.com/jeresoft)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?flat&logo=instagram&logoColor=white)](https://www.instagram.com/jeresoft/)
 
