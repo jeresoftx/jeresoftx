@@ -20,7 +20,7 @@ How exciting! 🔥 Let's continue the journey! 🚀
 
 ## Github Overview
 
-<img align="left" alt="Joel Alvarez Github Stats" src="https://github-readme-stats-seven-beryl-28.vercel.app/api?username=jeresoftx&show_icons=true&theme=dark" /> &nbsp;
+<img align="left" alt="Joel Alvarez Github Stats" src="https://github-readme-stats-seven-beryl-28.vercel.app/api?username=jeresoftx&show_icons=true&theme=dark&include_all_commits=true" /> &nbsp;
 [![Top Langs](https://github-readme-stats-seven-beryl-28.vercel.app/api/top-langs/?username=jeresoftx&theme=dark)](stats)
 
 <!---
